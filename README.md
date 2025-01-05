@@ -11,7 +11,7 @@ Certain Windows infections involve malware or harmful code transmitted via unenc
 
 ![image](https://github.com/user-attachments/assets/14c174de-f9a9-486a-9d8c-182a41bcb477)
 
-By applying the <b>http.request<b> filter, we observe two GET requests directed to the same destination. One request includes a .doc file, while the other contains a .exe file. These objects can be exported for further analysis in detail.
+By applying the <b> http.request <b> filter, we observe two GET requests directed to the same destination. One request includes a .doc file, while the other contains a .exe file. These objects can be exported for further analysis in detail.
 
 ![image](https://github.com/user-attachments/assets/47a4d520-c733-471b-b0b0-77b3d1595e72)
 
