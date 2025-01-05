@@ -1,0 +1,4 @@
+file knr.exe
+shasum -a 256 Invoice\&MSO-Request.doc
+
+URL VirusTotal: https://www.virustotal.com/gui/home/upload
