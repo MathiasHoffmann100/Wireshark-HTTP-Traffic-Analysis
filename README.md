@@ -17,8 +17,8 @@ By applying the "http.request" filter, we observe two GET requests directed to t
 
 The two files are saved separately. Next, in a Linux environment, the file types should be verified using the command line. The file command identifies the file type, while shasum generates the file hash to ensure the files have not been altered or corrupted.
 
-file [filename]
-shasum -a 256 [filename]
+<b>file<b> [filename]
+<b>shasum -a 256<b> [filename]
 
 ![image](https://github.com/user-attachments/assets/69937fc6-6e1b-455b-a064-2154f64373b9)
 
