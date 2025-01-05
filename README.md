@@ -3,7 +3,7 @@ This project demonstrates the use of Wireshark to analyze HTTP traffic, focusing
 
 Analyzing HTTP traffic with Wireshark is a fundamental skill for understanding client-server communication. It allows professionals to identify errors, diagnose performance issues, and detect potential security risks. By interpreting HTTP requests and responses, Wireshark provides clear visibility into how applications interact over the network, making it a key tool for troubleshooting and maintaining reliable systems.
 
-Once Wireshark is configured in the desired environment, the pre-captured traffic containing the threat should be downloaded (pcaps.zip file attached). It is essential to handle this step carefully within an isolated environment, preferably a Linux virtual machine, to prevent any potential risks.
+Once Wireshark is configured in the desired environment, the pre-captured traffic containing the threat should be downloaded (pcaps.zip file attached - Passwd: infected). It is essential to handle this step carefully within an isolated environment, preferably a Linux virtual machine, to prevent any potential risks.
 
 ![image](https://github.com/user-attachments/assets/f96cf90b-f385-4f60-aa6d-67f147d8ae90)
 
